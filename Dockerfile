@@ -1,4 +1,4 @@
-FROM e
+FROM ubuntu
 
 # Environment variables
 #######################
