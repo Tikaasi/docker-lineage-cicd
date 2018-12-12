@@ -1,5 +1,4 @@
-FROM debian:stretch
-MAINTAINER Nicola Corna <nicola@corna.info>
+FROM e
 
 # Environment variables
 #######################
